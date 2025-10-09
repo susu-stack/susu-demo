@@ -224,7 +224,7 @@ const pressArticles = [
             <h1 class="exhibition-title">Contact</h1>
             <ul class="press-list">
                 <li> <a href="mailto:susu.tzucheng@gmail.com">susu.tzucheng@gmail.com</a></li>
-                <li> <a href="https://www.instagram.com/susu_y2k/" target="_blank">@susu_y2k</a></li>
+                <li> <a href="https://www.instagram.com/susu_menthol_jade/" target="_blank">@susu</a></li>
             </ul>
         `;
 
@@ -267,3 +267,4 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 });
+
